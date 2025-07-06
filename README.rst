@@ -1,8 +1,7 @@
-Template for the Read the Docs tutorial
+Energy handbook
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Here you find the frequently asked questions and knowledge in the energy domain.
 
 Read the tutorial here:
 
