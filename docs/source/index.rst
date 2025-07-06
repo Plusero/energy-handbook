@@ -1,5 +1,6 @@
-Welcome to Lumache's documentation!
+Welcome to Energy handbook
 ===================================
+This is the place where you find frequently asked questions in the energy domain.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
